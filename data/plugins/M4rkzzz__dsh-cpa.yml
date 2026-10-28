@@ -2,5 +2,5 @@ url: https://github.com/M4rkzzz/dsh-cpa
 name: M4rkzzz/dsh-cpa
 category: tools
 description:
-  en: 'Manage local CLIProxyAPI ChatGPT authorization, quota observations, and model synchronization in DeepSeek Harness.'
-  zh: '在 DeepSeek Harness 中管理本地 CLIProxyAPI 的 ChatGPT 授权、额度观测和模型同步。'
+  en: 'In-process ChatGPT Codex authorization, model discovery, and quota display for DeepSeek Harness.'
+  zh: '在 DeepSeek Harness 内直连 ChatGPT Codex，管理授权、模型同步和额度显示，无需本地代理进程。'
